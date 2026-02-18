@@ -12,7 +12,7 @@ import java.util.HashMap;
  *
  * @param <E> Type of object returned by reading an input file
  */
-public class HW1Utility {
+public class Input_Parser {
 
     /**
      * Reads the file at the specified location and parses it to get the needed
