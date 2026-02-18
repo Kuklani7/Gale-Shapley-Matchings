@@ -3,11 +3,7 @@ package ub.cse.algo;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * For use in CSE 331 HW1.
- * This is the class you will be editing and turning in. It will be timed against our implementation
- * NOTE that if you declare this file to be in a package, it will not compile in Autolab
- */
+
 public class Solution {
 
     private int numberOfMenAndWomen;
@@ -35,11 +31,7 @@ public class Solution {
         this.women = women;
     }
 
-    /**
-     * This method must be filled in by you. You may add other methods and subclasses as you see fit,
-     * but they must remain within the Solution class.
-     * @return Your set of stable matches. Order does not matter.
-     */
+    
     public ArrayList<Matching> outputStableMatchings() {
 
         /* The code below just calls the allPermutations function, and then just prints all permutations*/
