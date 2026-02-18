@@ -4,9 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 
-/**
- * The driver for homework one. CSE 331
- */
+
 public class Driver {
 
     // The following variables might need to be changed.
